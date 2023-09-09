@@ -1,0 +1,40 @@
+body{
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.move-icon{
+  height: 50px;
+}
+
+.move-btn{
+  background-color: transparent;
+  border: 3px solid white;
+  border-radius: 60px;
+  width: 120px;
+  height: 120px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.result{
+  color: white;
+  font-size: 24px;
+  font-weight: 600;
+  margin-top: 30px;
+}
+
+.js-moves, .js-score{
+  color: white;
+  margin-bottom: 30px;
+}
+
+.reset-btn{
+  padding: 10px 18px;
+  font-size: 14px;
+}
